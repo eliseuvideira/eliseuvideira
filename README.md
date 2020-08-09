@@ -6,17 +6,17 @@ I'm a JS developer, mostly focused on building API's with Node.js.
 
 ### Things I Like
 
-[<img align="left" alt="Docker" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/docker.png" width="22px" />][docker]
+<img align="left" alt="Docker" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/docker.png" width="22px" />
 
-[<img align="left" alt="Electron" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/electron.png" width="22px" />][electron]
+<img align="left" alt="Electron" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/electron.png" width="22px" />
 
-[<img align="left" alt="Gatsby" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/gatsby.png" width="22px" />][gatsby]
+<img align="left" alt="Gatsby" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/gatsby.png" width="22px" />
 
-[<img align="left" alt="Node.js" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/nodejs.png" width="22px" />][nodejs]
+<img align="left" alt="Node.js" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/nodejs.png" width="22px" />
 
-[<img align="left" alt="React" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/react.png" width="22px" />][react]
+<img align="left" alt="React" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/react.png" width="22px" />
 
-[<img align="left" alt="TypeScript" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/typescript.png" width="22px" />][typescript]
+<img align="left" alt="TypeScript" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/typescript.png" width="22px" />
 
 <br/>
 <br/>
@@ -25,9 +25,6 @@ I'm a JS developer, mostly focused on building API's with Node.js.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
-<br/>
 
 ---
 
