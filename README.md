@@ -2,8 +2,6 @@
 
 I'm a JS developer, mostly focused on building API's with Node.js.
 
-<br/>
-
 ### Things I Like
 
 <img align="left" alt="Docker" src="https://raw.githubusercontent.com/eliseuvideira/eliseuvideira/master/images/docker.png" width="22px" />
