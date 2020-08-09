@@ -24,6 +24,10 @@ I'm a JS developer, mostly focused on building API's with Node.js.
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Functional Programming Boolean](https://www.eliseuvideira.com/posts/functional-programming-boolean/)
+- [Fun Fact - Array.from callback](https://www.eliseuvideira.com/posts/fun-fact-array-from-callback/)
+- [Fun Fact - JS Number Literal Properties](https://www.eliseuvideira.com/posts/fun-fact-javascript-number-literal-properties/)
+- [TypeScript with prettier, eslint and lint-staged](https://www.eliseuvideira.com/posts/typescript-prettier-eslint-lint-staged/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
