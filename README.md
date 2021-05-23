@@ -22,10 +22,11 @@ I'm a JS developer, mostly focused on building API's with Node.js.
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Functional Programming Boolean](https://www.eliseuvideira.com/posts/functional-programming-boolean/)
-- [Fun Fact - Array.from callback](https://www.eliseuvideira.com/posts/fun-fact-array-from-callback/)
-- [Fun Fact - JS Number Literal Properties](https://www.eliseuvideira.com/posts/fun-fact-javascript-number-literal-properties/)
-- [TypeScript with prettier, eslint and lint-staged](https://www.eliseuvideira.com/posts/typescript-prettier-eslint-lint-staged/)
+- [Building an Nginx Proxy Server](https://lsvdr.pw/nginx-proxy-server-with-docker/)
+- [Using aws-cli as a Docker Container](https://lsvdr.pw/aws-cli-with-docker/)
+- [Restore Postgres Backup to a Docker Compose Postgres Container](https://lsvdr.pw/postgres-docker-compose-restore/)
+- [Backup a Docker Compose Postgres Container](https://lsvdr.pw/postgres-docker-compose-backup/)
+- [Postgres Using Docker Compose](https://lsvdr.pw/postgres-docker-compose/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://eliseuvideira.com/
