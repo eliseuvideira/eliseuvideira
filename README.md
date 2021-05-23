@@ -28,8 +28,6 @@ I'm a JS developer, mostly focused on building API's with Node.js.
 - [TypeScript with prettier, eslint and lint-staged](https://www.eliseuvideira.com/posts/typescript-prettier-eslint-lint-staged/)
 <!-- BLOG-POST-LIST:END -->
 
----
-
 [website]: https://eliseuvideira.com/
 [docker]: https://www.docker.com/
 [electron]: https://www.electronjs.org/
