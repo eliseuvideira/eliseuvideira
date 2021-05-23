@@ -30,8 +30,6 @@ I'm a JS developer, mostly focused on building API's with Node.js.
 
 ---
 
-<img alt="eliseuvideira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eliseuvideira&show_icons=true&hide_border=true" />
-
 [website]: https://eliseuvideira.com/
 [docker]: https://www.docker.com/
 [electron]: https://www.electronjs.org/
